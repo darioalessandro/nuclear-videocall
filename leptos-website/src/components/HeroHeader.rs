@@ -29,7 +29,7 @@ pub fn HeroHeader() -> impl IntoView {
                                             href="#solutions"
                                             class="font-medium transition-all text-gray-300 hover:text-white hover:bg-primary/10 px-4 py-2 rounded-md"
                                         >
-                                            "Solutions"
+                                            "Solutions THIS IS JUST A TEST"
                                         </a>
                                         <a
                                             href="#developers"
